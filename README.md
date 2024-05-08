@@ -13,4 +13,7 @@
 
 根据反馈静思浮梦完成率很高，关闭演出效果和辅助线，背景效果拉满
 
-![f3a3204bd648652571dca86533fa0e49](https://github.com/DR-lin-eng/genshin-auto-music/assets/52230594/92642c66-6aa3-41c0-aef8-6fa2d2b93cc1)
+
+建议配置
+![8c69f87053c011526bfc13dddcbfc7b8_720](https://github.com/DR-lin-eng/genshin-auto-music/assets/52230594/d9e4f595-aeea-4a7a-a3be-8fd7ae77d1f4)
+
