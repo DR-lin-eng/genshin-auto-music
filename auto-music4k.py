@@ -9,9 +9,9 @@ running = False
 
 def press_key(coord, key):
     while running:
-        if p.pixel(coord[0], coord[1])[2] < 240:
+        if p.pixel(coord[0], coord[1])[2] < 220:
             p.keyDown(key)
-            while running and p.pixel(coord[0], coord[1])[2] < 240:
+            while running and p.pixel(coord[0], coord[1])[2] < 220:
                 t.sleep(0.005)  # Minimize CPU usage, but effectively no "cooldown" between checks
             p.keyUp(key)
 
