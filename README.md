@@ -1,5 +1,5 @@
 # genshin-auto-music
-全自动完成原神类音乐游类活动
+全自动完成原神类音乐游类活动（推荐使用bgi，bgi作者用c#重构了我的代码，适配更好，完成率更高占用更低：https://github.com/babalae/better-genshin-impact）
 
 4k分辨率下的正确率在90%以上
 
