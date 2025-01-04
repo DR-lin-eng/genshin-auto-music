@@ -8,3 +8,5 @@
 暂时窗口化和全屏是分开适配的
 根据反馈静思浮梦完成率很高，关闭演出效果和辅助线，背景效果拉满
 ![f3a3204bd648652571dca86533fa0e49](https://github.com/DR-lin-eng/genshin-auto-music/assets/52230594/92642c66-6aa3-41c0-aef8-6fa2d2b93cc1)
+难度最高结果
+![image](https://github.com/user-attachments/assets/1e264370-5a4a-4fd3-a60a-2c6271dd1836)
